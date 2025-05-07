@@ -70,32 +70,32 @@ skills:
 
   column1:
     items:
-      - label: "방화벽 설정하기" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - label: "방화벽 구성하기" #0-10 progress in dots
+        text: "iptables, OPNsense 두가지 방화벽을 다뤄보면서 nat설정과 여러가지 설정 가능능."
         value: "85" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "Python 으로 스택과 큐 구현 가능능."
         value: "75" #0-100 progress in %
 
   column2:
     items:
       - label: "네트워크 구성하기" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "네트워크 구성하는건 자신있음."
         value: "95" #0-100 progress in %
 
       - label: "troubleshooting" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "문제를 찾고 해결하는 능력이 뛰어남."
         value: "90" #0-100 progress in %
 
   column3:
     items:
       - label: "네트워크 이론" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "네트워크에 대한 전반적인 이해도가 높음음."
         value: "90" #0-100 progress in %
 
-      - label: "방화벽 구성" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - label: "linux" #0-10 progress in dots
+        text: "리눅스를 잘 다룸룸."
         value: "90" #0-100 progress in %
 
 ### Resume [ resume ]
