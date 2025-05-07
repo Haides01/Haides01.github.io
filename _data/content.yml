@@ -110,7 +110,7 @@ resume:
       - name: "한국폴리텍대학교 강서 캠퍼스"
         subname: "사이버보안학과"
         period: "2024 - 2025"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: "폴리텍대학교 강서 캠퍼스 사이버보안학과 재학."
 
       - #name: "Lviv National Academy of Arts"
         #subname: "Faculty of Design"
@@ -128,7 +128,7 @@ resume:
       - name: "강서 폴리텍 사이버 보안학과"
         subname: "팀 프로젝트."
         period: "2025 - <b>Present</b>"
-        text: "팀 프로젝트로 방화벽이 포함된 네트워크를 구성하고 IPS/IDS 를 만들어서 내부망에서 외부망으로 나가는 트레픽을 확인하고 차단하는 시스템을 구성성"
+        text: "팀 프로젝트로 방화벽이 포함된 네트워크를 구성하고 IPS/IDS 를 만들어서 내부망에서 외부망으로 나가는 트레픽을 확인하고 차단하는 시스템을 구성"
 
       - #name: "UI / UX Specialist"
         #subname: "Kana Design Studio"
