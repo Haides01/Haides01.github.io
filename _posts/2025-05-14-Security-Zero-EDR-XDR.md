@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "최근 보안 기술 동향 : 제로 트러스트, EDR, XDR"
-date:   2025-05-15
+date:   2025-05-14
 category: Security
 image: assets/img/blog/security-trends.png
 author: Ryan Adlard
