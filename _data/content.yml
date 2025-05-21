@@ -32,35 +32,35 @@ services:
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
+    - title: "네트워크 구성"
+      subtitle: "네트워크"
+      text: "네트워크에 대해 전반적으로 이해 하고 있고 네트워크 구축 가능"
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
+    - title: "방화벽 구축"
+      subtitle: "방화벽"
+      text: "방화벽을 구축하여 방화벽 정책 설정이 가능"
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+    - title: "리눅스 활용"
+      subtitle: "리눅스"
+      text: "리눅스를 활용가능 , 리눅스 시스템에 대해 이해가 높음"
       button_label: "See Pricing"
       button_link: "#pricing-section"
 
-    - title: "Google Ads"
-      subtitle: "Advertising"
-      text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    #- title: "Google Ads"
+    #  subtitle: "Advertising"
+    #  text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
+    #  button_label: "See Pricing"
+    #  button_link: "#pricing-section"
 
-    - title: "Sound Track"
-      subtitle: "Music Writing"
-      text: "Music copying, writing, creating, transcription and composition services."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+    #- title: "Sound Track"
+    #  subtitle: "Music Writing"
+    #  text: "Music copying, writing, creating, transcription and composition services."
+    #  button_label: "See Pricing"
+    #  button_link: "#pricing-section"
 
 ### Skills [ skills ]
 skills:
@@ -71,11 +71,11 @@ skills:
   column1:
     items:
       - label: "방화벽 구성하기" #0-10 progress in dots
-        text: "iptables, OPNsense 두가지 방화벽을 다뤄보면서 nat설정과 여러가지 설정 가능능."
+        text: "iptables, OPNsense 두가지 방화벽을 다뤄보면서 nat설정과 여러가지 설정 가능."
         value: "85" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Python 으로 스택과 큐 구현 가능능."
+        text: "Python 으로 스택과 큐 구현 가능."
         value: "75" #0-100 progress in %
 
   column2:
@@ -91,11 +91,11 @@ skills:
   column3:
     items:
       - label: "네트워크 이론" #0-10 progress in dots
-        text: "네트워크에 대한 전반적인 이해도가 높음음."
+        text: "네트워크에 대한 전반적인 이해도가 높음."
         value: "90" #0-100 progress in %
 
       - label: "linux" #0-10 progress in dots
-        text: "리눅스를 잘 다룸룸."
+        text: "리눅스를 잘 다룸."
         value: "90" #0-100 progress in %
 
 ### Resume [ resume ]
