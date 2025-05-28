@@ -74,3 +74,20 @@ join_and_learn('HackTheBox')
 join_and_learn('BoanNews')
 #=> HackTheBox에 가입하고, 매일 30분씩 활동해보세요!
 #=> BoanNews에 가입하고, 매일 30분씩 활동해보세요!
+
+{% if site.disqus.shortname %}
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = '{{ page.url | absolute_url }}';
+      this.page.identifier = '{{ page.url }}';
+    };
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://{{ site.disqus.shortname }}.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>댓글을 보시려면 자바스크립트를 활성화해주세요.</noscript>
+{% endif %}
