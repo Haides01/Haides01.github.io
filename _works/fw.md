@@ -18,7 +18,7 @@ info:
 description1:
   show: yes
   title: Project Goal
-  text: |
+  text: 
     **"방화벽과 IPS 통합 보안 네트워크 시스템 구축"**  
     실제 환경에 적용 가능한 보안 인프라를 설계하고, 팀원 간 협업을 통해 방화벽-IPS 연동 시스템을 구현했습니다.
 
