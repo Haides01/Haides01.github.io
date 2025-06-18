@@ -10,15 +10,14 @@ main:
   - title: "Home"
     url: "/"
     parent: 0
+  # Skills
+  - title: "Skills"
+    url: "#skills-section"
+    parent: 0
 
   # Services
   - title: "Services"
     url: "#services-section"
-    parent: 0
-
-  # Skills
-  - title: "Skills"
-    url: "#skills-section"
     parent: 0
 
   # Works
@@ -29,16 +28,6 @@ main:
   # Resume
   - title: "Resume"
     url: "#resume-section"
-    parent: 0
-
-  # Testimonials
-  - title: "Testimonials"
-    url: "#testimonials-section"
-    parent: 0
-
-  # Pricing
-  - title: "Pricing"
-    url: "#pricing-section"
     parent: 0
 
   # Blog

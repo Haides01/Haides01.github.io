@@ -12,8 +12,8 @@ hero:
   after_title: "저는 <strong>Cyber Security Professional</strong>"
   description: "폴리텍 대학 강서캠퍼스 사이버 보안과 2학년 입니다."
   button1:
-    label: "이력서 다운받기"
-    link: "#"
+    label: "깃허브 블로그"
+    link: "https://github.com/Haides01"
   button2:
     label: "My Skills"
     link: "#skills-section"
@@ -22,7 +22,7 @@ hero:
     - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
-    - num: "4"
+    - num: "1"
       value: "Completed <strong>Projects</strong>"
 
 ### Services [ services ]
@@ -34,21 +34,18 @@ services:
   items:
     - title: "네트워크 구성"
       subtitle: "네트워크"
-      text: "네트워크에 대해 전반적으로 이해 하고 있고 네트워크 구축 가능"
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+      text: "네트워크에 대해 전반적으로 이해하고 있으며, 실제 환경에서 네트워크를 직접 구축할 수 있고, 라우터와 스위치 등 다양한 네트워크 장비 설정 경험이 있으며, 안정적이고 효율적인 네트워크 환경을 설계하고 유지할 수 있습니다."
+      button_link: "#"
 
     - title: "방화벽 구축"
       subtitle: "방화벽"
-      text: "방화벽을 구축하여 방화벽 정책 설정이 가능"
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+      text: "방화벽을 구축하고 다양한 정책을 설정해본 경험이 있으며, 실무 환경에서 보안 규칙을 적용하여 네트워크를 안전하게 보호할 수 있고, NAT와 포트포워딩 등 다양한 방화벽 기능을 활용할 수 있습니다."
+      button_link: "#"
 
     - title: "리눅스 활용"
       subtitle: "리눅스"
-      text: "리눅스를 활용가능 , 리눅스 시스템에 대해 이해가 높음"
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+      text: "리눅스 시스템에 대한 이해도가 높으며, 다양한 실무 작업에 리눅스를 능숙하게 활용할 수 있고, 파일 및 사용자 관리, 네트워크 설정 등 시스템 운영 경험이 있으며, 쉘 스크립트 등 자동화 작업도 직접 수행할 수 있습니다"
+      button_link: "#"
 
     #- title: "Google Ads"
     #  subtitle: "Advertising"
@@ -71,31 +68,31 @@ skills:
   column1:
     items:
       - label: "방화벽 구성하기" #0-10 progress in dots
-        text: "iptables, OPNsense 두가지 방화벽을 다뤄보면서 nat설정과 여러가지 설정 가능."
+        text: "iptables와 OPNsense 두 가지 방화벽 솔루션을 모두 다뤄본 경험이 있습니다. NAT 설정을 비롯해 다양한 정책 및 규칙을 직접 적용해보며 실제 네트워크 환경에서 방화벽을 효율적으로 구성할 수 있습니다. 실습을 통해 포트포워딩, 접근 제어, 로깅 등 여러 기능을 체계적으로 익혔습니다."
         value: "85" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Python 으로 스택과 큐 구현 가능."
+        text: "Python을 활용하여 스택과 큐 등 기본적인 자료구조를 직접 구현할 수 있습니다. 알고리즘 문제 해결이나 데이터 처리 작업에도 Python을 적극적으로 활용하고 있습니다. 코드의 가독성과 효율성을 고려하여 다양한 프로젝트에 적용한 경험이 있습니다."
         value: "75" #0-100 progress in %
 
   column2:
     items:
       - label: "네트워크 구성하기" #0-10 progress in dots
-        text: "네트워크 구성하는건 자신있음."
+        text: "네트워크 토폴로지 설계부터 실제 장비 설정까지 전반적인 네트워크 구성을 자신 있게 수행할 수 있습니다. 라우터, 스위치, 무선 AP 등 다양한 장비를 활용해 실무 환경에서 네트워크를 구축해본 경험이 있습니다. 문제 발생 시 신속하게 원인을 파악하고 해결하는 능력도 갖추고 있습니다."
         value: "95" #0-100 progress in %
 
       - label: "troubleshooting" #0-10 progress in dots
-        text: "문제를 찾고 해결하는 능력이 뛰어남."
+        text: "문제가 발생했을 때 원인을 체계적으로 분석하고 해결하는 능력이 뛰어납니다. 네트워크, 시스템, 소프트웨어 등 다양한 분야에서 트러블슈팅 경험을 쌓았습니다. 로그 분석, 패킷 캡처, 단계별 점검 등 다양한 방법을 활용하여 신속하게 문제를 해결할 수 있습니다."
         value: "90" #0-100 progress in %
 
   column3:
     items:
       - label: "네트워크 이론" #0-10 progress in dots
-        text: "네트워크에 대한 전반적인 이해도가 높음."
+        text: "OSI 7계층, TCP/IP, 라우팅, 스위칭 등 네트워크의 핵심 이론에 대한 전반적인 이해도가 높습니다. 실제 환경에서 이론을 바탕으로 네트워크 설계와 문제 해결에 적용해본 경험이 있습니다. 최신 네트워크 기술 동향에도 관심을 가지고 지속적으로 학습하고 있습니다."
         value: "90" #0-100 progress in %
 
       - label: "linux" #0-10 progress in dots
-        text: "리눅스를 잘 다룸."
+        text: "리눅스 운영체제를 능숙하게 다룰 수 있으며, 다양한 배포판에서 시스템 관리 경험이 있습니다. 파일 시스템, 사용자 및 권한 관리, 네트워크 설정 등 실무에서 필요한 작업을 원활하게 수행할 수 있습니다. 쉘 스크립트 작성과 자동화 작업에도 익숙합니다."
         value: "90" #0-100 progress in %
 
 ### Resume [ resume ]
@@ -112,12 +109,12 @@ resume:
         period: "2024 - 2025"
         text: "폴리텍대학교 강서 캠퍼스 사이버보안학과 재학."
 
-      - #name: "Lviv National Academy of Arts"
+      #- name: "Lviv National Academy of Arts"
         #subname: "Faculty of Design"
         #period: "2012 - 2014"
         #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - #name: "IT Future"
+      #- name: "IT Future"
         #subname: "High School"
         #period: "2010 - 2012"
         #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -130,12 +127,12 @@ resume:
         period: "2025 - <b>Present</b>"
         text: "팀 프로젝트로 방화벽이 포함된 네트워크를 구성하고 IPS/IDS 를 만들어서 내부망에서 외부망으로 나가는 트레픽을 확인하고 차단하는 시스템을 구성"
 
-      - #name: "UI / UX Specialist"
+      #- name: "UI / UX Specialist"
         #subname: "Kana Design Studio"
         #period: "2018 - 2020"
         #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - #name: "Plugins Developer"
+      #- name: "Plugins Developer"
         #subname: "Fiverr.com"
         #period: "2016 - 2018"
         #text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
@@ -257,7 +254,7 @@ contacts:
   list:
     - label: "Address"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "서울"
 
     - label: "Freelance"
       icon: "far fa-user"
@@ -265,11 +262,11 @@ contacts:
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "ok55book43@gmail.com"
 
     - label: "Phone"
       icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+      text: "+82 10 - 5172 - 5507"
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
