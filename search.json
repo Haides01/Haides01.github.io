@@ -1,14 +1,19 @@
----
-layout: null
----
 [
-  {% for post in site.posts %}
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "국내외 보안 커뮤니티 &amp; 웹사이트 추천 ",
+      "category" : "Security",
+      "tags"     : "Security, InfoSec, Korea, Global, Community",
+      "url"      : "/security/2025/05/15/security-Community/",
+      "date"     : "2025-05-15 00:00:00 +0900"
+    } ,
+  
+    {
+      "title"    : "최근 보안 기술 동향 : 제로 트러스트, EDR, XDR",
+      "category" : "Security",
+      "tags"     : "Security, ZeroTrust, EDR, XDR",
+      "url"      : "/security/2025/05/14/Security-Zero-EDR-XDR/",
+      "date"     : "2025-05-14 00:00:00 +0900"
+    } 
+  
 ]

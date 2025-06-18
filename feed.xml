@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-16T18:23:41+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luique - CV Resume &amp;amp; Personal Portfolio Jekyll Theme</title><subtitle>Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes</subtitle><author><name>Luique</name></author><entry><title type="html">국내외 보안 커뮤니티 &amp;amp; 웹사이트 추천</title><link href="http://localhost:4000/security/2025/05/15/security-Community/" rel="alternate" type="text/html" title="국내외 보안 커뮤니티 &amp;amp; 웹사이트 추천" /><published>2025-05-15T00:00:00+09:00</published><updated>2025-05-15T00:00:00+09:00</updated><id>http://localhost:4000/security/2025/05/15/security-Community</id><content type="html" xml:base="http://localhost:4000/security/2025/05/15/security-Community/"><![CDATA[<p>보안 공부를 하다 보면 혼자서는 한계가 느껴지기 마련입니다. 이럴 때 보안 커뮤니티와 전문 사이트는 좋은 길잡이가 되어주죠.<br />
+이번 포스트에서는 <strong>국내와 국외</strong>로 나눠서 유익한 보안 사이트와 커뮤니티들을 정리해봤습니다.</p>
+
+<hr />
+
+<h2 id="-국내-보안-커뮤니티--웹사이트">🇰🇷 국내 보안 커뮤니티 &amp; 웹사이트</h2>
+
+<h3 id="1-bobbest-of-the-best">1. <strong>BoB(Best of the Best)</strong></h3>
+<blockquote>
+  <p><a href="https://www.kitribob.kr">https://www.kitribob.kr</a><br />
+한국정보기술연구원(KITRI)에서 운영하는 차세대 보안 리더 양성 프로그램.<br />
+실력 있는 보안 커뮤니티와 네트워크가 형성되어 있습니다.</p>
+</blockquote>
+
+<h3 id="2-hackerhighschool-korea-해커고등학교">2. <strong>HackerHighSchool Korea (해커고등학교)</strong></h3>
+<blockquote>
+  <p><a href="https://hhs.dev">https://hhs.dev</a><br />
+보안을 배우는 학생 및 입문자들에게 적합한 교육 콘텐츠를 제공합니다.</p>
+</blockquote>
+
+<h3 id="3-pwnablekr">3. <strong>Pwnable.kr</strong></h3>
+<blockquote>
+  <p><a href="https://pwnable.kr">https://pwnable.kr</a><br />
+리눅스 바이너리 해킹을 중심으로 한 CTF 스타일 워게임. 유명한 국내 해커가 만든 서비스입니다.</p>
+</blockquote>
+
+<h3 id="4-보안-뉴스-사이트들">4. <strong>보안 뉴스 사이트들</strong></h3>
+<ul>
+  <li><strong>BoanNews</strong> – <a href="https://www.boannews.com">https://www.boannews.com</a></li>
+  <li><strong>DailySECU</strong> – <a href="https://www.dailysecu.com">https://www.dailysecu.com</a></li>
+</ul>
+
+<h3 id="5-루리웹-보안-갤러리--디시인사이드--클리앙-it보안-게시판">5. <strong>루리웹 보안 갤러리 / 디시인사이드 / 클리앙 IT보안 게시판</strong></h3>
+<p>실무자가 섞여 있는 자유로운 커뮤니티 분위기. 트렌드 캐치용으로 적합합니다.</p>
+
+<hr />
+
+<h2 id="-국외-보안-커뮤니티--웹사이트">🌍 국외 보안 커뮤니티 &amp; 웹사이트</h2>
+
+<h3 id="1-hack-the-box">1. <strong>Hack The Box</strong></h3>
+<blockquote>
+  <p><a href="https://www.hackthebox.com">https://www.hackthebox.com</a><br />
+실전 해킹 실습을 할 수 있는 가장 인기 있는 플랫폼 중 하나입니다.</p>
+</blockquote>
+
+<h3 id="2-tryhackme">2. <strong>TryHackMe</strong></h3>
+<blockquote>
+  <p><a href="https://tryhackme.com">https://tryhackme.com</a><br />
+초보자부터 중급자까지 커버하는 사이버보안 학습 플랫폼.</p>
+</blockquote>
+
+<h3 id="3-reddit-rnetsec">3. <strong>Reddit r/netsec</strong></h3>
+<blockquote>
+  <p><a href="https://www.reddit.com/r/netsec/">https://www.reddit.com/r/netsec/</a><br />
+보안 업계 종사자와 연구자들이 활발하게 활동하는 글로벌 커뮤니티.</p>
+</blockquote>
+
+<h3 id="4-portswigger-web-security-academy">4. <strong>PortSwigger Web Security Academy</strong></h3>
+<blockquote>
+  <p><a href="https://portswigger.net/web-security">https://portswigger.net/web-security</a><br />
+웹 해킹을 배우고 싶은 분들에게 강력 추천! Burp Suite 제작사에서 운영합니다.</p>
+</blockquote>
+
+<h3 id="5-krebsonsecurity--the-hacker-news--threatpost">5. <strong>KrebsOnSecurity / The Hacker News / ThreatPost</strong></h3>
+<ul>
+  <li><a href="https://krebsonsecurity.com">https://krebsonsecurity.com</a></li>
+  <li><a href="https://thehackernews.com">https://thehackernews.com</a></li>
+  <li><a href="https://threatpost.com">https://threatpost.com</a><br />
+최신 보안 이슈와 트렌드를 파악하기 좋은 뉴스 사이트들입니다.</li>
+</ul>
+
+<hr />
+
+<blockquote>
+  <p>“정보보안은 고립된 영역이 아니라, 열린 소통과 협업을 통해 더 강해집니다.”</p>
+</blockquote>
+
+<p>```python</p>
+<h1 id="당신이-속한-커뮤니티가-실력을-키워줍니다">당신이 속한 커뮤니티가 실력을 키워줍니다!</h1>
+<p>def join_and_learn(community):
+    print(f”{community}에 가입하고, 매일 30분씩 활동해보세요!”)</p>
+
+<p>join_and_learn(‘HackTheBox’)
+join_and_learn(‘BoanNews’)
+#=&gt; HackTheBox에 가입하고, 매일 30분씩 활동해보세요!
+#=&gt; BoanNews에 가입하고, 매일 30분씩 활동해보세요!</p>]]></content><author><name>Ryan Adlard</name></author><category term="Security" /><category term="Security" /><category term="InfoSec" /><category term="Korea" /><category term="Global" /><category term="Community" /><summary type="html"><![CDATA[보안 공부를 하다 보면 혼자서는 한계가 느껴지기 마련입니다. 이럴 때 보안 커뮤니티와 전문 사이트는 좋은 길잡이가 되어주죠. 이번 포스트에서는 국내와 국외로 나눠서 유익한 보안 사이트와 커뮤니티들을 정리해봤습니다.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/infosec-community.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/infosec-community.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">최근 보안 기술 동향 : 제로 트러스트, EDR, XDR</title><link href="http://localhost:4000/security/2025/05/14/Security-Zero-EDR-XDR/" rel="alternate" type="text/html" title="최근 보안 기술 동향 : 제로 트러스트, EDR, XDR" /><published>2025-05-14T00:00:00+09:00</published><updated>2025-05-14T00:00:00+09:00</updated><id>http://localhost:4000/security/2025/05/14/Security-Zero-EDR-XDR</id><content type="html" xml:base="http://localhost:4000/security/2025/05/14/Security-Zero-EDR-XDR/"><![CDATA[<p>사이버 위협이 정교해지고 있는 만큼, 보안 기술도 빠르게 발전하고 있습니다.<br />
+이번 포스트에서는 최근 가장 주목받는 <strong>3가지 보안 기술 동향</strong>을 소개합니다:<br />
+<strong>제로 트러스트(Zero Trust)</strong>, <strong>EDR(Endpoint Detection and Response)</strong>, <strong>XDR(Extended Detection and Response)</strong>.</p>
+
+<hr />
+
+<h2 id="1-제로-트러스트-zero-trust">1. 제로 트러스트 (Zero Trust)</h2>
+
+<p><strong>“아무도 믿지 마라. 내부도 예외는 아니다.”</strong></p>
+
+<p>제로 트러스트는 <strong>모든 사용자와 기기, 네트워크 활동을 지속적으로 검증</strong>하는 보안 모델입니다.<br />
+VPN이나 경계 기반의 보안 모델과는 달리, 네트워크 내부에 있다고 해서 자동으로 신뢰하지 않습니다.</p>
+
+<h3 id="핵심-개념">핵심 개념</h3>
+<ul>
+  <li>사용자/디바이스 인증과 권한 최소화</li>
+  <li>지속적인 모니터링과 이상 탐지</li>
+  <li>마이크로 세그먼테이션 (Micro-Segmentation)</li>
+</ul>
+
+<blockquote>
+  <p>전통적인 보안은 성벽 기반이었다면, 제로 트러스트는 ‘출입 통제소’ 기반입니다.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="️-2-edr-endpoint-detection--response">🛡️ 2. EDR (Endpoint Detection &amp; Response)</h2>
+
+<p><strong>“엔드포인트에서의 실시간 감지와 대응”</strong></p>
+
+<p>EDR은 각종 단말(PC, 서버, 모바일 등)에서 발생하는 이벤트를 모니터링하여 <strong>의심스러운 활동을 탐지하고 대응</strong>할 수 있는 시스템입니다.</p>
+
+<h3 id="-주요-기능">🔍 주요 기능</h3>
+<ul>
+  <li>실시간 이상 징후 탐지</li>
+  <li>위협 분석 및 경고</li>
+  <li>포렌식용 로그 수집</li>
+  <li>수동/자동 위협 대응</li>
+</ul>
+
+<h3 id="-대표-솔루션">🧠 대표 솔루션</h3>
+<ul>
+  <li>CrowdStrike Falcon</li>
+  <li>SentinelOne</li>
+  <li>Microsoft Defender for Endpoint</li>
+</ul>
+
+<h2 id="3-xdr-extended-detection--response">3. XDR (Extended Detection &amp; Response)</h2>
+
+<p>“모든 보안 이벤트를 통합적으로 연결하다”</p>
+
+<p>XDR은 EDR보다 확장된 개념으로, 엔드포인트 + 이메일 + 네트워크 + 클라우드 + ID 등 여러 소스에서 데이터를 수집하고, 이를 통합적으로 분석해 위협을 탐지합니다.</p>
+
+<h3 id="차별점">차별점</h3>
+<p>다양한 보안 데이터의 연계 분석</p>
+
+<p>경고의 정확도 향상 (false positive 감소)</p>
+
+<p>자동화된 대응 (SOAR와 연계)</p>
+
+<p>XDR은 보안 운영 센터(SOC)의 ‘멀티센서’ 역할을 합니다.</p>
+
+<p>```python</p>
+<h1 id="위협이-감지되면-자동으로-대응하는-예시">위협이 감지되면 자동으로 대응하는 예시</h1>
+<p>def detect_threat(event):
+    if event == “malicious_behavior”:
+        return “Isolate endpoint and alert SOC”
+    return “No action”</p>
+
+<p>detect_threat(“malicious_behavior”)
+#=&gt; ‘Isolate endpoint and alert SOC’</p>]]></content><author><name>Ryan Adlard</name></author><category term="Security" /><category term="Security" /><category term="ZeroTrust" /><category term="EDR" /><category term="XDR" /><summary type="html"><![CDATA[사이버 위협이 정교해지고 있는 만큼, 보안 기술도 빠르게 발전하고 있습니다. 이번 포스트에서는 최근 가장 주목받는 3가지 보안 기술 동향을 소개합니다: 제로 트러스트(Zero Trust), EDR(Endpoint Detection and Response), XDR(Extended Detection and Response).]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/img/blog/security-trends.png" /><media:content medium="image" url="http://localhost:4000/assets/img/blog/security-trends.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
